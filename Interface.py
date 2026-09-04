@@ -122,5 +122,4 @@ class GameInterface:
         button = QPushButton(text)
 
         button.setFixedWidth(220)
-
         return button
